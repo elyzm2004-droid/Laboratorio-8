@@ -1,0 +1,35 @@
+ /* Estilos generales aplicados al cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F8F9FA;
+        }
+
+        /* Estilos para el título (h1) */
+        h1 {
+            color: #007BFF; /* Azul corporativo */
+            font-size: 30px;
+            text-align: center;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 10px;
+            margin-bottom: 25px;
+        }
+
+        /* Estilos para el párrafo (p) */
+        p {
+            color: #343A40; /* Texto oscuro */
+            font-size: 16px;
+            margin: 20px 10%;
+            border: 1px dashed #6C757D;
+            padding: 15px;
+            background-color: #E9ECEF;
+        }
+
+        /* Estilos para la imagen (img) */
+        img {
+            width: 350px;
+            height: 200px;
+            display: block; /* Para centrar */
+            margin: 0 auto;
+            border: 5px solid #28A745; /* Verde de "eficiencia" */
+            box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.15);
+        }
